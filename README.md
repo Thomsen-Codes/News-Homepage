@@ -1,7 +1,7 @@
 # Frontend Mentor - Intro section with dropdown navigation
 
-[Live Site](thomsen-codes.github.io/News-Homepage
-)
+[Live Site](https://thomsen-codes.github.io/News-Homepage/)
+
 
 ![Design preview for the Intro section with dropdown navigation coding challenge](./design/desktop-preview.jpg)
 
